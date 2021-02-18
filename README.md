@@ -1,4 +1,3 @@
-**CPEN 221 / Fall 2020 / Exercise 4**
 
 # Analyzing DNA
 
